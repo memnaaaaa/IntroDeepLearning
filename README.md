@@ -4,8 +4,7 @@ This repository contains lab assignments and solutions for the Intro to Deep Lea
 
 ## Contents
 
-- `lab1p1.py`: Basic vector and matrix operations with NumPy.
-- `lab1p2.py`: Gradient descent implementation for a simple quadratic function.
+- `lab1/`: Introduction to PyTorch and basic neural networks.
 
 ## License
 
