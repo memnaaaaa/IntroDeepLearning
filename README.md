@@ -5,6 +5,7 @@ This repository contains lab assignments and solutions for the Intro to Deep Lea
 ## Contents
 
 - `lab1/`: Introduction to PyTorch and basic neural networks.
+- `lab2/`: Advanced neural network architectures and training techniques.
 
 ## License
 
